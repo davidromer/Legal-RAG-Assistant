@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+*.log
+data/*
+!data/.gitkeep
+node_modules/
+welcome-to-docker/

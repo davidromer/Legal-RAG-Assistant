@@ -1,0 +1,12 @@
+[
+  {
+    "question": "¿Cuál es la cláusula de terminación del contrato?",
+    "expected_document_id": "contrato-arrendamiento-001",
+    "expected_answer_contains": "treinta (30) días de preaviso"
+  },
+  {
+    "question": "¿Qué obligaciones tiene el contratista?",
+    "expected_document_id": "contrato-obra-002",
+    "expected_answer_contains": "entrega en los plazos"
+  }
+]
