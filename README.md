@@ -1,4 +1,4 @@
-# Legal RAG Assistant
+# Legal-RAG-Assistant
 
 AI-powered legal document assistant built with Python, FastAPI, PostgreSQL/pgvector
 and LLMs. It enables semantic search and question answering over legal documents
